@@ -1,0 +1,2 @@
+# Static Website Lab
+This Github repository contains a simple one page website which demonstrates the basics of HTML, JavaScript, CSS. The scripting is explained in this [JavaScript documentation](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics).
